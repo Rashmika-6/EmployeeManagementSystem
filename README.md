@@ -30,9 +30,5 @@ The Employee Management System is developed using Core Java with Swing and AWT f
 3. Set up a MySQL database and configure the connection in the project.
 4. Run the application to start managing employee records.
 
-## Contributions
-Contributions are welcome! If you find any bugs or want to improve the project, feel free to create a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
