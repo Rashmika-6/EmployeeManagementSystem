@@ -19,10 +19,6 @@ The Employee Management System is developed using Core Java with Swing and AWT f
 - MySQL for the database management
 - Intellij IDEA as the Integrated Development Environment (IDE)
 
-## Screenshots
-
-![Employee Management System Screenshot](path/to/screenshot.png)
-
 ## Getting Started
 
 1. Clone the repository to your local machine.
